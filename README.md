@@ -1,8 +1,15 @@
 # HookFix_Chat
 HookFix_Chat For reference only
 # HookFix Chat 
+## 了解其他
+### 网站
+```bash
+欢迎访问[HookFix | Ficklelyh 合作建设的资源网](https://ficklelyh.atomgit.net/web/)
+欢迎访问[哔哩哔哩个人主页](https://space.bilibili.com/5303213)
+欢迎访问[Haloer Mod仓库2](https://gitcode.com/Mod)
+欢迎访问[个人介绍](https://ficklelyh.atomgit.net/web/HookFix.html)
+```
 
-HookFixAIIII对话系统
 
 ## 部署
 
